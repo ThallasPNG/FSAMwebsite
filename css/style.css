@@ -297,3 +297,8 @@ footer .social-links img {
   filter: none;
 }
 
+.news-grid h3 a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: bold;
+}
